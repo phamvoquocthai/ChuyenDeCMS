@@ -1,0 +1,2 @@
+2022-11-29T16:59:52+00:00 DEBUG Tt4b_Pixel_Class::inject_start_checkout: hit injectStartCheckout
+2022-11-29T16:59:52+00:00 DEBUG Tt4b_Pixel_Class::inject_start_checkout: Missing option "access_token"
